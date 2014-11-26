@@ -1037,6 +1037,47 @@ a.label:focus {
     margin-bottom: 40px;
 }
 
+
+
+
+.kp-blk {
+    line-height: 1.24;
+    margin: 6px -32px 0 2px;
+    padding-bottom: 1px;
+    font-size: 13px;
+    box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.2);
+    display: block;
+}
+
+.kp-blk ol {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    list-style-type: decimal;
+}
+
+.kp-blk li {
+    list-style: none;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.kp-blk .mod {
+    line-height: 1.24;
+}
+.kp-blk .mod:not(.fwm) {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.kp-blk .mod:first-child {
+    padding-top: 15px;
+}
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
