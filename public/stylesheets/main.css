@@ -1076,8 +1076,38 @@ a.label:focus {
 .kp-blk .mod:first-child {
     padding-top: 15px;
 }
-
-
+.xpdopen .mod:last-child {
+    padding-bottom: 15px;
+}
+.kno-ecr-pt {
+    color: #000;
+    display: inline;
+    font-size: 30px;
+    font-weight: normal;
+    position: relative;
+    -webkit-transform-origin: left;
+}
+a.fl:link {
+    color: #1a0dab;
+}
+._CLb {
+    color: #777;
+    margin: 4px 0;
+    overflow: hidden;
+}
+._cgc {
+    overflow: hidden;
+    margin: 10px 0 13px;
+}
+._mr {
+    margin-top: 7px;
+}
+._xdb {
+    font-weight: bolder;
+}
+._xdb .fl {
+    color: #222 !important;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
