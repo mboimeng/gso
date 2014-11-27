@@ -905,8 +905,7 @@ a.label:focus {
 }
 .search_result{
     font-family: arial,sans-serif;
-    width:592px;
-    max-width: 644px;
+    width:585px;
 }
 .search_result .s_r{
     margin-bottom:23px;
@@ -1107,6 +1106,11 @@ a.fl:link {
 }
 ._xdb .fl {
     color: #222 !important;
+}
+
+.fdsd {
+    position: absolute;
+    left: 707px;
 }
 /* ==========================================================================
    Helper classes
