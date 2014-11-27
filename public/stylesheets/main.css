@@ -904,7 +904,7 @@ a.label:focus {
 }
 .search_result{
     font-family: arial,sans-serif;
-    width:585px;
+    width:528px;
 }
 .search_result .s_r{
     margin-bottom:23px;
@@ -1039,6 +1039,7 @@ a.label:focus {
 
 
 .kp-blk {
+    width: 424px;
     line-height: 1.24;
     margin: 6px -32px 0 2px;
     padding-bottom: 1px;
@@ -1110,6 +1111,8 @@ a.fl:link {
 .fdsd {
     position: absolute;
     left: 707px;
+    top: 120px;
+    z-index: 0;
 }
 /* ==========================================================================
    Helper classes
